@@ -1,0 +1,131 @@
+/*xs device*/
+@media (max-width:767px) @screen-xs-max) { 
+ .commonbg{background-color:lightblue;
+    margin-top:15px;
+    
+}
+.headerheight{min-height:100px;}
+
+.item1{background-color:brown;}
+.item2{background-color:red;}
+.item3{background-color:green;}
+.item4{background-color:purple;}
+
+.item6{background-color:orange;
+margin-top:25px;
+min-height:150px;
+   
+}
+.brand{min-height:70px;
+margin-top:15px;
+margin-bottom:15px;}
+.globalnav{min-height:70px;
+margin-top:15px;
+margin-bottom:15px;}
+.tools{min-height:70px;
+margin-top:15px;
+margin-bottom:15px;}
+.heroheight{
+    min-height:150px;
+   
+    
+}
+.herofeatures
+{min-height:100px;
+    margin-top:25px;
+    margin-bottom:25px;
+    
+}
+.calltoaction{
+    min-height:100px;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.add{min-height:150px;
+margin-top:15px;}
+.paddingright{padding-right:0px;}
+.articlefeatures{min-height:430px;margin-top:50px;
+    margin-bottom:20px;}
+.articlelisting{min-height:430px;
+margin-top:50px;
+margin-bottom:20px;}
+.articleheight{min-height:500px;}
+.sidebarfeature{padding-left:30px; 
+padding-top:50px;
+margin-bottom:30px;}
+.sidebarcontent{height:430px;
+margin-right:50px;
+margin-bottom:30px;}
+.footerheight{min-height:125px;
+margin-top:25px;} 
+}
+/*sm device*/
+@media (min-width:768px) and (max-width:991px) {
+    .commonbg{background-color:lightblue;
+    margin-top:15px;
+    
+}
+.headerheight{min-height:100px;}
+
+.item1{background-color:brown;}
+.item2{background-color:red;}
+.item3{background-color:green;}
+.item4{background-color:purple;}
+
+.item6{background-color:orange;
+margin-top:25px;
+min-height:150px;
+   
+}
+.brand{min-height:70px;
+margin-top:15px;
+margin-bottom:15px;}
+.globalnav{min-height:70px;
+margin-top:15px;
+margin-bottom:15px;}
+.tools{min-height:70px;
+margin-top:15px;
+margin-bottom:15px;}
+.heroheight{
+    min-height:150px;
+   
+    
+}
+.herofeatures
+{min-height:100px;
+    margin-top:25px;
+    margin-bottom:25px;
+    
+}
+.calltoaction{
+    min-height:100px;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.add{min-height:150px;
+margin-top:15px;}
+.paddingright{padding-right:0px;}
+.articlefeatures{min-height:430px;margin-top:50px;
+    margin-bottom:20px;}
+.articlelisting{min-height:430px;
+margin-top:50px;
+margin-bottom:20px;}
+.articleheight{min-height:500px;}
+.sidebarfeature{padding-left:30px; 
+padding-top:50px;
+margin-bottom:30px;}
+.sidebarcontent{height:430px;
+margin-right:50px;
+margin-bottom:30px;}
+.footerheight{min-height:125px;
+margin-top:25px;}
+  
+}
+/*md device*/
+@media (min-width:992px ) and (max-width:1199px) { 
+    
+}
+/*lg device*/
+@media (min-width:1200px) { 
+  
+    }

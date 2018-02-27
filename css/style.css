@@ -1,0 +1,126 @@
+.img-responsive{
+    width: 100% !important;
+}
+#slider {
+}
+
+#photodiary {
+}
+
+#lifestyle {
+}
+
+#newsletter {
+}
+
+#lifestylebottom {
+}
+
+#loadbutton {
+}
+
+.container {
+}
+
+.row {
+}
+
+
+
+.logo {
+}
+
+.logo h1{font-weight: 100;
+color:#10101010!mportant;
+font-size: 30px;
+padding: 15px 0px;
+}
+.navbar.navbar-default {
+}
+
+.custom-nav{background-color:transparent!important;border:none!important;margin-top:10px; }
+.custom-nav ul{}
+.custom-nav ul li{}
+.custom-nav ul li:last-child a{padding-right:0px;}
+.custom-nav ul li a{color:#767676!important;font-size:18px;font-size: 14px;
+padding: 35px 35px;}
+.custom-nav ul li a:hover{color:#020202!important;transition:0.5s;}
+.sr-only {
+}
+
+.icon-bar {
+}
+
+
+.collapse.navbar-collapse.navbar-ex1-collapse {
+}
+
+.nav.navbar-nav.navbar-right {
+}
+
+
+.slider {
+}
+
+
+
+
+
+
+
+.commonsubtitle {margin:50px 0px;
+   
+}
+
+.commonsubtitle p{color:#8D8D8D;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    font-size:15px;
+  
+}
+.description {margin-top:10px;
+}
+.description padding{padding:0px 40px;}
+.description h2{color:#626262;font-size:36px;
+}
+.description p{color:#7E7E7E;font-size:16px;line-height:29px; }
+}
+.singlecontent {margin:80px 0px;
+}
+
+.singleimage {margin-top:px;
+}
+#newsletter{background-color:#EFEFEF;height:275px;}
+.newsletterform{
+}
+.newsletterform h2{color:#505050;font-weight:100;font-size:37px;padding:30px 0px;
+} 
+.newsletterform form input{width: 400px;
+border-top: none;
+border-bottom: 0.5px solid black;
+border-left: none;
+border-right: none;
+background:transparent;
+height:45px;margin-top:22px;}
+.newsletterform form button{border:none;}
+.form-inline {
+}
+
+.loadmore {margin:50px;
+}
+.loadmore button{background-color:transparent;
+border:1px solid black;
+padding:15px 20px;
+    font-size:16px;
+color:#626262;
+margin-top:5px;}
+.navbarfooter {
+}
+.navbarfooter ul li a,.socialmedia ul li a {text-decoration:none;color:#626262;
+    font-size:16px;font-weight:bold;
+}
+footer{background-color:#f3f3f3;height:150px;padding:40px 0px;}
+
+.socialmedia {
+}
+
